@@ -1,10 +1,3 @@
-'''
-CS:5001
-Homework 7
-4th December 2019
-Waleed Humayon
-'''
-
 import unittest
 from room import*
 
