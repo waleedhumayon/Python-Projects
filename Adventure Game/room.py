@@ -1,11 +1,5 @@
 '''
-    CS5001
-    Fall 2019
-    Homework 7 / Final Project
-    ALIGN Quest
-    Old-School Adventure game to gain more experience with Classes,
-    Objects, Files, Lists, Program Decomposition, and almost
-    everything else we touched on in the course
+    Old-School Adventure game based on text based interactive use. 
 
     This file contains the starter code for the game's Rooms, Puzzles and
     Monsters. Left to:do for the student: Build out the Item class.
