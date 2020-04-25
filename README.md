@@ -1,2 +1,2 @@
 # Python-Projects
-Holds all projects coded in Python
+A repository for all of my Python projects.
