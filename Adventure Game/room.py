@@ -73,12 +73,7 @@ class Room:
     This class encapsulates all of the behavior for the "things" in our
     rooms. Items can be collected by the player by Taking them during
     their quest. Items also have a description that players can see when
-    they Look at the item. Players can also Drop or Use items
-    For this prototype, puzzles and monsters CAN be attached to items
-    (just like rooms) but the framework doesn't fully support the
-    resolution of solutions for those puzzles on objects yet.
-    reverse_effects() is future work, so you can leave it as a "pass"
-    in your code
+    they Look at the item. Players can also Drop or Use items.
 '''
 
 class Item:
